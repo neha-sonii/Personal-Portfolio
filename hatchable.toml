@@ -1,0 +1,5 @@
+# Hatchable project manifest. This file marks the folder as a
+# Hatchable project and declares the services it uses.
+# Reference: https://hatchable.com/docs/developers/config
+name = "Neha Soni — Conversion-First Portfolio"
+description = "A light editorial personal portfolio for Neha Soni, a solo web designer and developer focused on home-service businesses."
